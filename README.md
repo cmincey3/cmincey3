@@ -28,3 +28,5 @@ HTML | CSS | Javascript | Java | Python | R | SQL
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/cmincey3//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/_cmincey)  
   
+## Profile Visits
+![visitors](https://visitor-badge.glitch.me/badge?page_id=cmincey3.cmincey3&left_color=green&right_color=red)
