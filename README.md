@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 - HTML
 - CSS
 - Javascript
+|
 - Java
 - Python
 - R
