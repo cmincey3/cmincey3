@@ -1,6 +1,6 @@
 ### Hi there 👋 My name is Cordele Mincey III
 
-I am a data analyst with goals of becoming proficient in machine learning. I currently teach kids javascript at Code Ninjas and love the feeling of getting them to understand programming. Some IDE's I enjoy working out of is Pycharm, Jupyter Notebook, RStudio and Eclipse. A lot of my projects were school based and just now being committed to my github but definitely check them out and I look forward to connecting with you.
+I am a data analyst with goals of becoming proficient in machine learning. I currently teach kids javascript at Code Ninjas and love the feeling of getting them to understand programming. Some IDE's I enjoy working out of is Pycharm, Jupyter Notebook, RStudio and Eclipse. A lot of my projects were school based from 2019-2020 and are just now being committed to my github but definitely check them out and I look forward to connecting with you.
 
 <br />
 
