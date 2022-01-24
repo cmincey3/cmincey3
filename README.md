@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 
 -->
 - 🔭 I’m currently working on a trading bot.
-- 🌱 I’m currently learning Javascript for gaming.
+- 🌱 I’m currently learning Unity for gaming.
 - 👯 I’m looking to collaborate on any open source project.
 - 🤔 I’m looking for help with a job currently.
 - 💬 Ask me about anything in my expertise.
