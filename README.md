@@ -16,7 +16,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with a job currently.
 - 💬 Ask me about anything in my expertise.
 - 📫 How to reach me: Cordelem3@gmail.com
-- 😄 Pronouns: He/him
 - ⚡ Fun fact: I'm learning how to play jazz piano.
 
 ## Languages and Tools
